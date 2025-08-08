@@ -1,5 +1,0 @@
-[api]
-base_url = "http://localhost:5000/api"
-
-[features]
-enable_logging = true
